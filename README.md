@@ -1,4 +1,4 @@
 libsodium-openwrt
 =================
 
-libsodium OpenWrt Makefile for package building (dynamic lib)
+[libsodium](https://github.com/jedisct1/libsodium) OpenWrt Makefile for package building (dynamic lib)
