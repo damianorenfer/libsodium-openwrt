@@ -1,6 +1,10 @@
 libsodium-openwrt
 =================
 
+You find this package in the new OpenWrt feed : [libs/libsodium](https://github.com/openwrt/packages/tree/master/libs/libsodium)
+
+##Deprecated
+
 [libsodium](https://github.com/jedisct1/libsodium) OpenWrt Makefile for package building (dynamic lib)
 
 ###Build for your platform
